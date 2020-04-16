@@ -1,3 +1,8 @@
 html {
   font-family: "Noto Serif", serif;
 }
+
+header, footer {
+  background-color: #70ad55;
+  color: white;
+}
