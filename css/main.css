@@ -4,5 +4,17 @@ html {
 
 header, footer {
   background-color: #70ad55;
-  color: white;
+  color: #fff;
+}
+
+input, textarea, select {
+  border: 2px solid #6e8c62;
+}
+
+hr {
+  border-color: #70ad55;
+}
+
+button {
+  background-color: #6e8c62;
 }
